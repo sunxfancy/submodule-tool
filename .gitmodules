@@ -1,0 +1,3 @@
+[submodule "sambotha-parser"]
+	path = sambotha-parser
+	url = git@github.com:karmapa/sambotha-parser.git
