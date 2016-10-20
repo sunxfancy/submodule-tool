@@ -1,8 +1,8 @@
 #!/bin/bash
 BASE_PATH=$(pwd)
-SUB_PATH=$(cat ./.gitmodules | grep path | awk '{print $3}')
+SUB_PATHS=$(cat ./.gitmodules | grep path | awk '{print $3}')
 
-for path in $SUB_PATH
+for path in $SUB_PATHS
 do
   test -d "$path" || continue
   cd $path
