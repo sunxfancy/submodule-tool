@@ -2,7 +2,7 @@
   "name": "submodule-tool",
   "version": "0.0.1",
   "description": "submodule tool",
-  "main": "index.js",
+  "main": "src/submodule.sh",
   "scripts": {
     "install-sub": "./src/submodule.sh"
   },
