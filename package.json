@@ -3,6 +3,9 @@
   "version": "0.0.1",
   "description": "submodule tool",
   "main": "src/submodule.sh",
+  "bin":  {
+    "install-sub": "./src/submodule.sh"
+  },
   "scripts": {
     "install-sub": "./src/submodule.sh"
   },
