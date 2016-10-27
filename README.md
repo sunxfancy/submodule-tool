@@ -1,7 +1,7 @@
 # submodule-tool
 npm install for all git submodules
 ```
-npm i -g https://github.com/karmapa/submodule-tool.git#hash
+npm i -g submodule-tool
 ```
 
 ###Usage
