@@ -11,7 +11,7 @@ function installSub(){
         npm i
         cd "$BASE_PATH"
       else
-        echo "no dependencies in package.json" $path
+        echo "no dependencies in package.json "$path
         cd "$BASE_PATH"
       fi
     else
