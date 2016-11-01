@@ -1,11 +1,11 @@
 # submodule-tool
 scripts for git submodules
 ```
-npm i submodule-tool
+npm install submodule-tool
 ```
 
 ###Usage
-npm i for submodules
+npm install for submodules
 ```
 install-sub
 ```
