@@ -1,10 +1,10 @@
 {
   "name": "submodule-tool",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "submodule tool",
-  "main": "src/submodule.sh",
+  "main": "src/installSub.sh",
   "bin":  {
-    "install-sub": "./src/submodule.sh"
+    "install-sub": "./src/installSub.sh"
   },
   "scripts": {
     "install-sub": "./src/submodule.sh"
