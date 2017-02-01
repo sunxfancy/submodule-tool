@@ -1,2 +1,2 @@
-"%ProgramFiles%\Git\git-bash.exe" -c "installSub.sh"
+"git-bash.exe" -c "installSub.sh"
 
