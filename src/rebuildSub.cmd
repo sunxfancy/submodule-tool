@@ -1,2 +1,2 @@
-start "" "%ProgramFiles%\Git\git-bash.exe" -c "rebuildSub.sh"
+%ProgramFiles%\Git\git-bash.exe -c "rebuildSub.sh"
 
