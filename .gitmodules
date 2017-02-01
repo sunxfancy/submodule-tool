@@ -1,6 +1,6 @@
-[submodule "raw/sambotha-parser"]
-	path = raw/sambotha-parser
-	url = git@github.com:karmapa/sambotha-parser.git
-[submodule "raw/tibetdoc-parser"]
-	path = raw/tibetdoc-parser
-	url = git@github.com:karmapa/tibetdoc-parser.git
+[submodule "raw/vc-youku-plugin"]
+	path = raw/vc-youku-plugin
+	url = https://github.com/VideoClient/vc-youku-plugin.git
+[submodule "raw/example-typescript"]
+	path = raw/example-typescript
+	url = https://github.com/codecov/example-typescript.git
