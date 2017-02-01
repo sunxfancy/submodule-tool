@@ -10,6 +10,7 @@
     "rebuild-sub.cmd": "./src/rebuildSub.cmd"
   },
   "scripts": {
+	"postinstall": "install-sub",
     "install-sub": "./src/submodule.sh",
     "rebuild-sub": "./src/rebuildSub.sh"
   },
